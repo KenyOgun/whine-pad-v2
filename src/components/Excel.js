@@ -5,6 +5,7 @@ import clone from "../modules/clone";
 import schema from "../config/schema";
 import DataContext from "../contexts/DataContext";
 import RouteContext from "../contexts/RouteContext";
+import React from "react";
 
 import "./Excel.css";
 import Actions from "./Actions";

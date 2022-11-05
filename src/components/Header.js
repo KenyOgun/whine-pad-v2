@@ -1,7 +1,7 @@
 import Logo from "./Logo";
 import "./Header.css";
 import { useContext, useState, useRef } from "react";
-
+import React from "react";
 import Button from "./Button";
 import FormInput from "./FormInput";
 import Dialog from "./Dialog";

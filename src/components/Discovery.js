@@ -12,6 +12,7 @@ import Actions from "./Actions";
 import Dialog from "./Dialog";
 import Excel from "./Excel";
 import DataContext from "../contexts/DataContext";
+import React from "react";
 
 import schema from "../config/schema";
 
